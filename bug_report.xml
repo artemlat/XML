@@ -1,1 +1,15 @@
-
+<bug_report>
+  <id>1</id>
+  <environment>Windows 10, Chrome 112</environment>
+  <summary>No icon of the quote in the widget on the main screen</summary>
+  <steps>
+    <step1>open the app</step1>
+    <step2>tap on the widget banner</step2>
+    <step3>tap on [Confirm]</step3>
+    <step4>collapse the app</step4>
+    <step5> go to the main screen</step5>
+  </steps>
+  <ER>Quote icon is displayed in the widget</ER>
+  <AR>Quote icon is displayed in the widget</AR>
+  <attachments>link</attachments>
+</bug_report>
